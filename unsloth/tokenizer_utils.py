@@ -54,7 +54,10 @@ IGNORED_TOKENIZER_NAMES = [
     # Qwen Coder did not train on tool calling. Math did!
     "unsloth/Qwen2.5-Coder-1.5B-Instruct",
     "unsloth/Qwen2.5-Coder-7B-Instruct",
+    "Qwen/Qwen2.5-7B",
+    "Qwen/Qwen2.5-7B-Instruct",
     "Qwen/Qwen2.5-Coder-7B",
+    "Qwen/Qwen2.5-Coder-7B-Instruct",
     "Qwen/Qwen2.5-Coder-14B",
     "Qwen/Qwen2.5-Coder-32B",
 ]
